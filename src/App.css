@@ -1,0 +1,39 @@
+footer{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  background-color: chartreuse;
+}
+.panel1{
+border-radius: 15px;
+padding: 15px;
+background-color: rgb(165, 165, 165);
+border-bottom: 10px;
+border-style: none;
+display: block;
+}
+.button1{
+ border-radius: 15px;
+ padding: 10px 20px; 
+ cursor: pointer; 
+}
+.banner{
+  border-radius: 15px;
+  padding: 15px;
+  border-bottom: 10px;
+  display: block;
+  background-color: rgb(165, 165, 165);
+}
+.B1{
+ border-radius: 15px;
+ padding: 10px 20px; 
+ cursor: pointer; 
+ text-decoration: overline color( rergb(0, 0, 0)reen rgb(0, 0, 0));
+ text-align: center;
+}
+.img1{
+  border-radius: 15px;
+  display: block;
+  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
